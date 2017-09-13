@@ -27,7 +27,7 @@ public class ProductController {
     @RequestMapping({"/product/list", "/product"})
     public String listProducts(Model model){
         model.addAttribute("products", productService.listAll());
-        return "product/list";
+        return "success";
     }
 
     @RequestMapping("/product/show/{id}")

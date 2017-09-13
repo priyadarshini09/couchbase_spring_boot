@@ -53,19 +53,19 @@
 			<artifactId>spring-boot-starter-data-couchbase</artifactId>
 		</dependency>
 
-		<dependency>
+		<!--<dependency>
 			<groupId>com.couchbase.client</groupId>
 			<artifactId>java-client</artifactId>
 			<version>2.2.6</version>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-commons-core -->
+		&lt;!&ndash; https://mvnrepository.com/artifact/org.springframework.data/spring-data-commons-core &ndash;&gt;
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-commons-core</artifactId>
 			<version>1.4.1.RELEASE</version>
 		</dependency>
-
+-->
 		<!-- https://mvnrepository.com/artifact/org.json/json -->
 		<dependency>
 			<groupId>org.json</groupId>
