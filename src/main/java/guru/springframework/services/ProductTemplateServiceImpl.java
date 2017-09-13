@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-@Service
+//@Service
 public class ProductTemplateServiceImpl implements ProductService{
 
     private static final String DESIGN_DOC = "product";

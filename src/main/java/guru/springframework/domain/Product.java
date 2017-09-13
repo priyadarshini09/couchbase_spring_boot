@@ -2,7 +2,6 @@ package guru.springframework.domain;
 
 import com.couchbase.client.java.repository.annotation.Field;
 import com.couchbase.client.java.repository.annotation.Id;
-//import org.bson.types.ObjectId;
 import org.springframework.data.couchbase.core.mapping.Document;
 
 import java.math.BigDecimal;
